@@ -47,3 +47,5 @@ Mobile.swipe(startX, endY, endX, startY)
 /*End Test*/
 Mobile.pressBack()
 
+WebUI.acceptAlert()
+
